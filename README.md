@@ -7,3 +7,11 @@ The assignment consists of three main tasks:
 1. **Exploratory Data Analysis (EDA)** - Gain insights from the dataset and generate actionable business insights.
 2. **Lookalike Model** - Build a recommendation system to find similar customers based on their profiles and transaction history.
 3. **Customer Segmentation** - Perform customer segmentation using clustering techniques and visualize the results.
+
+## Requirements
+To run the notebooks and code in this repository, you need to have the following libraries installed:
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
